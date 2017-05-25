@@ -1,0 +1,40 @@
+baseurl = "http://PPPius.github.io/"
+title = "Ancient Mayan Civilisation"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "Ancient Mayan Civilisation"
+  description = '<!--[-->Delve into the mysterious world of the Ancient Mayan Civilisation, as we showcase parts of their Government,Religion, Innovations, Economy, Arts and Society.<!--]-->'
+  logo = "fa-circle"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Ancient Mayan Civilisation"
+
