@@ -9,4 +9,4 @@ draft = false
 
 Some innovations by the Mayans were for example, the discovery of the number 0. The Mayans had come up with the number 0, thousands of years before Europeans did. They also developed accurate calendars that consisted of 365 day years. Their astronomers tracked the cycle of the sun and moon correctly, thousands of years before any other civilisation had done so. BY 700 BC they had developed a handwriting system, only 4 other ancient civilisations had done this at that time. From then onwards they continued to develop their wiring and then went on to write tens of thousands of books. They invented chocolate, herbal medicine and even a game that was similar to basketball. They had built hundreds of cities and by 600 BC the Mayan Capital City, Tikal had Schools, Libraries, Hospitals and Huge Sport Arenas. Below is as previously mentioned the Ancient Mayan Calendar an advancement that was many centuries ahead of its time.
 
-<img src="images/Calendar.jpg" alt="Calendar" width="560">
+<img src="images/Mayan Calendar.jpg" alt="Mayan Calendar" width="560">
