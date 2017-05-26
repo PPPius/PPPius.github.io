@@ -2,7 +2,7 @@
 weight = 4
 draft = false
 
-title = "Arts and Culture"
+title = "Arts"
 
 +++
 <img src="images/Maya Stella.jpg" alt="Maya Stella" width="560">
