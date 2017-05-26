@@ -1,5 +1,5 @@
 +++
-title = "Innovation and Science"
+title = "Innovation"
 weight = 5
 draft = false
 
